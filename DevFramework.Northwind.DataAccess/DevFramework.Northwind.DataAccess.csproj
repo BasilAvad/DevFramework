@@ -10,11 +10,12 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DevFramework.Northwind.DataAccess</RootNamespace>
     <AssemblyName>DevFramework.Northwind.DataAccess</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -81,8 +82,9 @@
     <Compile Include="Concrete\EntityFramework\NorthwindContext.cs" />
     <Compile Include="Concrete\NHibernate\Helpers\SqlServerHelper.cs" />
     <Compile Include="Concrete\EntityFramework\Mapping\CategoryMap.cs" />
-    <Compile Include="Concrete\NHibernate\Mappings\CategoryMap.cs" />
+    <Compile Include="Concrete\NHibernate\Mappings\categoryMap.cs" />
     <Compile Include="Concrete\NHibernate\Mappings\ProductMap.cs" />
+    <Compile Include="Concrete\NHibernate\NhCategoryDal.cs" />
     <Compile Include="Concrete\NHibernate\NhProductDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -94,6 +96,10 @@
     <ProjectReference Include="..\DevFramework.Core\DevFramework.Core.csproj">
       <Project>{7E01679F-9C17-4BA3-91E1-C475F1475D2F}</Project>
       <Name>DevFramework.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DevFramework.Northwind.Business.Tests\DevFramework.Northwind.Business.Tests.csproj">
+      <Project>{9696b6cc-e70f-48cb-b0f7-2c1315181531}</Project>
+      <Name>DevFramework.Northwind.Business.Tests</Name>
     </ProjectReference>
     <ProjectReference Include="..\DevFramework.Northwind.Entities\DevFramework.Northwind.Entities.csproj">
       <Project>{9AD5A410-54F7-4A37-837A-1D5026BD4CE1}</Project>
