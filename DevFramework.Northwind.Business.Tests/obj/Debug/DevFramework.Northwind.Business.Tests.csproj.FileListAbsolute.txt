@@ -1,0 +1,16 @@
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\DevFramework.Northwind.Business.Tests.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\DevFramework.Northwind.Business.Tests.pdb
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csprojAssemblyReference.cache
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csproj.CoreCompileInputs.cache
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csproj.CopyComplete
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.pdb
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\DevFramework.Northwind.Business.Tests.dll.CodeAnalysisLog.xml
+E:\Repos\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\DevFramework.Northwind.Business.Tests.dll.lastcodeanalysissucceeded

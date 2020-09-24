@@ -1,0 +1,8 @@
+E:\Repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+E:\Repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csprojAssemblyReference.cache
+E:\Repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+E:\Repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+E:\Repos\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
+E:\Repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll.CodeAnalysisLog.xml
+E:\Repos\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll.lastcodeanalysissucceeded
